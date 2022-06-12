@@ -14,13 +14,18 @@ Estudante de Ciência da Computação na PUC Minas.
 
 - ⚡ Design gráfico
 
+
 <div>
   <br>
   <a href="https://github.com/TulioBrant">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TulioBrant&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TulioBrant&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TulioBrant&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TulioBrant&layout=compact&langs_count=7&theme=dark"></a>
 </div>
   
   ##
-   
-<a href="https://www.linkedin.com/in/t%C3%BAlio-brant-guerra-a398b623a/" target="_blank">Linkedin</a>
+
+ ### Minhas Redes
+
+<div>
+  <a href="https://www.linkedin.com/in/t%C3%BAlio-brant-guerra-a398b623a/" target="_blank"><img height="30rem" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
