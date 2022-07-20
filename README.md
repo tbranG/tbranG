@@ -28,5 +28,5 @@ Estudante de Ciência da Computação na PUC Minas.
 
 <div>
   <a target="_blank" href="https://www.linkedin.com/in/t%C3%BAlio-brant-guerra-a398b623a/"><img height="30rem" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
-  <a target="_blank" href="https://poroyal.itch.io/"><img height="30rem" src="https://img.shields.io/badge/-ITCH.IO-lightgrey?style=for-the-badge&logo=itch.io"></a>
+  <a target="_blank" href="https://poroyal.itch.io/"><img height="30rem" src="https://img.shields.io/badge/-ITCH.IO-orange?style=for-the-badge&logo=itch.io"></a>
 </div>
