@@ -1,8 +1,8 @@
-### Meu Perfil
+### Profile
   ##
-Estudante de Ciência da Computação na PUC Minas. 
+Computer Science student, PUC Minas Brazil. 
 
-- ⚡ Desenvolvimento front-end e back-end
+- ⚡ Back-end and Front-end development.
 
 <div>
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -13,7 +13,7 @@ Estudante de Ciência da Computação na PUC Minas.
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
-- ⚡ Design gráfico
+- ⚡ Graphic Design
 
 
 <div>
@@ -25,7 +25,7 @@ Estudante de Ciência da Computação na PUC Minas.
   
   ##
 
- ### Minhas Redes
+ ### Networks
 
 <div>
   <a target="_blank" href="https://www.linkedin.com/in/t%C3%BAlio-brant-guerra-a398b623a/"><img height="30rem" width="120rem" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
