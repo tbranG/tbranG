@@ -18,9 +18,9 @@ Computer Science student, PUC Minas Brazil.
 
 <div>
   <br>
-  <a href="https://github.com/TulioBrant">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TulioBrant&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TulioBrant&layout=compact&langs_count=7&theme=dark"></a>
+  <a href="https://github.com/tbranG">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tbranG&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbranG&layout=compact&langs_count=7&theme=dark"></a>
 </div>
   
   ##
